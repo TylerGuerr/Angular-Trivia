@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "What is the first voice heard in The Fellowship of the Ring?",
+            "options": [{
+                    "text": "Galadriel",
+                    "correct": true
+                },
+                {
+                    "text": "Bilbo"
+                },
+                {
+                    "text": "Gandalf"
+                },
+                {
+                    "text": "Frodo"
+                }
+            ],
+            "explanation": "The Lady of the woods of Lothlórien narrates the prologue in which she talks about the Rings of Power and the War of the Last Alliance."
+        },
+        {
+            "questionText": "What actor was intentionally cast as Aragorn?",
+            "options": [{
+                    "text": "Christian Bale"
+                },
+                {
+                    "text": "Russell Crowe"
+                },
+                {
+                    "text": "Matt Damon"
+                },
+                {
+                    "text": "Stuart Townsend",
+                    "correct": true
+                }
+            ],
+            "explanation": "Townsend was initially cast as Aragorn. But after several shooting days, director Peter Jackson realized that they needed an older actor for that part."
+        },
+        {
+            "questionText": "What is Treebeard's catchprase?",
+            "options": [{
+                    "text": "No need to rush."
+                },
+                {
+                    "text": "Don't be hasty.",
+                    "correct": true
+                },
+                {
+                    "text": "Don't bother."
+                },
+                {
+                    "text": "Life finds its way."
+                }
+            ],
+            "explanation": "Of course, it's 'Don't be hasty.'"
+        },
+        {
+            "questionText": "What's the name of Saruman's spy in Rohan?",
+            "options": [{
+                    "text": "Gurin"
+                },
+                {
+                    "text": "Grima",
+                    "correct": true
+                },
+                {
+                    "text": "Groin"
+                },
+                {
+                    "text": "Gruul"
+                }
+            ],
+            "explanation": "Grima Wormtongue is an advisor to King Theoden. His task is to keep Rohan fragile. Because of him, Saruman can cast a deadly spell on Theoden."
+        },
+        {
+            "questionText": "Who kills the Witch-king?",
+            "options": [{
+                    "text": "Eowyn",
+                    "correct": true
+                },
+                {
+                    "text": "Saruman"
+                },
+                {
+                    "text": "Merry"
+                },
+                {
+                    "text": "Aragorn"
+                }
+            ],
+            "explanation": "Disguised as a man, King Theodens niece, Eowyn, rides into battle. As the Witch-king almost kills her uncle, she rushes to his defense. The Witch-king says, she shall get out of his way since it was foretold that hed never fall by the hand of a man. Eowyn then reveals that she is not a man and slays the Witch-king."
+        },
+        {
+            "questionText": "What actor was intially menat to protray Gandalf?",
+            "options": [{
+                    "text": "Christopher Lee"
+                },
+                {
+                    "text": "Mark Margolis"
+                },
+                {
+                    "text": "Michael Caine"
+                },
+                {
+                    "text": "Sean Connery",
+                    "correct": true
+                }
+            ],
+            "explanation": "Sean Connery was initially meant to portray Gandalf. But he didn’t understand the script, so he turned it down."
+        },
+        {
+            "questionText": "How many Academy Aswards did The Lord of th Rings trilogy win?",
+            "options": [{
+                    "text": "12"
+                },
+                {
+                    "text": "17",
+                    "correct": true
+                },
+                {
+                    "text": "8"
+                },
+                {
+                    "text": "21"
+                }
+            ],
+            "explanation": "In total, the trilogy won seventeen Academy Awards: four for The Fellowship of the Ring, two for The Two Towers, and eleven for The Return of the King. The Return of the King also won every Oscar for which it was nominated. Tied with films like Titanic and Ben-Hur, it is the film with the most Oscars awarded."
+        },
+        {
+            "questionText": "What is the Elvish Waybread called?",
+            "options": [{
+                    "text": "Lembas",
+                    "correct": true
+                },
+                {
+                    "text": "Lembash"
+                },
+                {
+                    "text": "Lumbas"
+                },
+                {
+                    "text": "Lumbash"
+                }
+            ],
+            "explanation": "Lembas, also called Elven bread or Waybread, is a unique travel food made by the Elves. It is so rich that a bite is said to satisfy a man for a whole day."
+        },
+        {
+            "questionText": "In which direction does Gandalf ask Aragorn to look on the first light on the fith day?",
+            "options": [{
+                    "text": "East",
+                    "correct": true
+                },
+                {
+                    "text": "North"
+                },
+                {
+                    "text": "South"
+                },
+                {
+                    "text": "West"
+                }
+            ],
+            "explanation": "Did you know this actually never happens in the books? There he cries: “Keep well the Lord of the Mark, till I return. Await me at Helms Gate! Farewell!”"
+        },
+        {
+            "questionText": "Who does Sam marry at the end of The Lord of the Rings?",
+            "options": [{
+                    "text": "Rosie Cotton",
+                    "correct": true
+                },
+                {
+                    "text": "Daisy Rose"
+                },
+                {
+                    "text": "Laura Silk"
+                },
+                {
+                    "text": "Daisy Took"
+                }
+            ],
+            "explanation": "Sam several times reveals that he has a crush on a Hobbit girl named Rosie Cotton. But shy as he is, he never talks to her. Finally, after Frodo and he destroyed the One Ring, he returns to the shire and approaches Rosie, now that he is so brave. And the rest, as they call it, is history."
+        }
+    ]
+}
